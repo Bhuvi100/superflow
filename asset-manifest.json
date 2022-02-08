@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/superflow/static/css/main.a2d30340.css",
-    "main.js": "/superflow/static/js/main.2777e3f1.js",
+    "main.js": "/superflow/static/js/main.75b7170b.js",
     "static/js/787.207eaefc.chunk.js": "/superflow/static/js/787.207eaefc.chunk.js",
     "index.html": "/superflow/index.html",
     "main.a2d30340.css.map": "/superflow/static/css/main.a2d30340.css.map",
-    "main.2777e3f1.js.map": "/superflow/static/js/main.2777e3f1.js.map",
+    "main.75b7170b.js.map": "/superflow/static/js/main.75b7170b.js.map",
     "787.207eaefc.chunk.js.map": "/superflow/static/js/787.207eaefc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2d30340.css",
-    "static/js/main.2777e3f1.js"
+    "static/js/main.75b7170b.js"
   ]
 }
